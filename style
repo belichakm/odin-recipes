@@ -10,4 +10,5 @@ img{
 
 .link{
     background-color: orange;
+    text-align: center;
 }
