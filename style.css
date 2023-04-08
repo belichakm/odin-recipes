@@ -1,5 +1,5 @@
 img{
-    height: 500px;
+    height: auto;
     width: 100px;
 }
 
@@ -11,4 +11,8 @@ img{
 .link{
     background-color: orange;
     text-align: center;
+}
+
+.big{
+    color: red;
 }
