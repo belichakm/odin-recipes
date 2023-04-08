@@ -1,0 +1,9 @@
+img{
+    height: 500px;
+    width: 100px;
+}
+
+.title{
+    text-align: center;
+    color: red;
+}
